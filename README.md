@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/49fe62c8-6796-4594-adda-5dac9ac64725" alt="Forebyte Logo" width="100">
+<img src="(https://pbs.twimg.com/profile_images/1876882679414616064/Va81Os2N_400x400.jpg)" alt="Forebyte Logo" width="100">
 
 
 
