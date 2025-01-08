@@ -2,6 +2,7 @@
 
 <img src="(https://pbs.twimg.com/profile_images/1876882679414616064/Va81Os2N_400x400.jpg)" alt="Forebyte Logo" width="100">
 
+![Va81Os2N_400x400](https://github.com/user-attachments/assets/ec4e7e22-3a84-4a3a-a2b7-9c2d426dafeb)
 
 
 # Forebyte
