@@ -6,7 +6,7 @@
 
 
 
-# Forebyte
+# Hashtag
 
 <p align="center">
   <a href="./README_en.md">English</a> |
@@ -14,18 +14,18 @@
   <a href="./README_ja.md">Japanese</a>
 </p>
 
-Forebyte is a knowledge-based Q&A system powered by a large language model (LLM), offering out-of-the-box data processing and model-calling capabilities. It also supports visual workflow orchestration via Flow to enable complex Q&A scenarios!
+Hashtag is a knowledge-based Q&A system powered by a large language model (LLM), offering out-of-the-box data processing and model-calling capabilities. It also supports visual workflow orchestration via Flow to enable complex Q&A scenarios!
 
 </div>
 
 <p align="center">
-  <a href="https://Forebyte.fun/">
+  <a href="https://Hashtag.fun/">
     <img height="21" src="https://img.shields.io/badge/Use%20Online-d4eaf7?style=flat-square&logo=spoj&logoColor=7d09f1" alt="cloud">
   </a>
-  <a href="https://doc.tryForebyte.ai/docs/intro">
+  <a href="https://doc.tryHashtag.ai/docs/intro">
     <img height="21" src="https://img.shields.io/badge/Documentation-7d09f1?style=flat-square" alt="document">
   </a>
-  <a href="https://doc.tryForebyte.ai/docs/development">
+  <a href="https://doc.tryHashtag.ai/docs/development">
     <img height="21" src="https://img.shields.io/badge/Local%20Development-%23d4eaf7?style=flat-square&logo=xcode&logoColor=7d09f1" alt="development">
   </a>
   <a href="/#-%E7%9B%B8%E5%85%B3%E9%A1%B9%E7%9B%AE">
@@ -37,7 +37,7 @@ Forebyte is a knowledge-based Q&A system powered by a large language model (LLM)
 
 ## 🛸 Use Online
 
-- 🌍 International Version: [Forebyte.fun](https://Forebyte.fun/)
+- 🌍 International Version: [Hashtag.fun](https://Hashtag.fun/)
 
 <a href="#readme">
     <img src="https://img.shields.io/badge/-Back%20to%20Top-7d09f1.svg" alt="#" align="right">
@@ -98,15 +98,15 @@ Project tech stack: NextJs + TS + ChakraUI + MongoDB + PostgreSQL (PG Vector plu
 
   > Deploy via [Sealos](https://sealos.io) without server purchase or domain name. Supports high concurrency and dynamic scaling. Database applications use Kubeblocks for superior IO performance compared to simple Docker container deployment.
 
-  [Click here for the Forebyte one-click deployment tutorial via Sealos](https://doc.tryForebyte.ai/docs/development/sealos/)
+  [Click here for the Hashtag one-click deployment tutorial via Sealos](https://doc.tryHashtag.ai/docs/development/sealos/)
 
-* [Quick Start for Local Development](https://doc.tryForebyte.ai/docs/development/intro/)
-* [Deploy Forebyte](https://doc.tryForebyte.ai/docs/development/sealos/)
-* [System Configuration Guide](https://doc.tryForebyte.ai/docs/development/configuration/)
-* [Multi-Model Configuration Guide](https://doc.tryForebyte.ai/docs/development/modelconfig/one-api/)
-* [Version Update/Upgrade Instructions](https://doc.tryForebyte.ai/docs/development/upgrading/)
-* [OpenAPI API Documentation](https://doc.tryForebyte.ai/docs/development/openapi/)
-* [Knowledge Base Structure Guide](https://doc.tryForebyte.ai/docs/guide/knowledge_base/rag/)
+* [Quick Start for Local Development](https://doc.tryHashtag.ai/docs/development/intro/)
+* [Deploy Hashtag](https://doc.tryHashtag.ai/docs/development/sealos/)
+* [System Configuration Guide](https://doc.tryHashtag.ai/docs/development/configuration/)
+* [Multi-Model Configuration Guide](https://doc.tryHashtag.ai/docs/development/modelconfig/one-api/)
+* [Version Update/Upgrade Instructions](https://doc.tryHashtag.ai/docs/development/upgrading/)
+* [OpenAPI API Documentation](https://doc.tryHashtag.ai/docs/development/openapi/)
+* [Knowledge Base Structure Guide](https://doc.tryHashtag.ai/docs/guide/knowledge_base/rag/)
 
 <a href="#readme">
     <img src="https://img.shields.io/badge/-Back%20to%20Top-7d09f1.svg" alt="#" align="right">
@@ -116,7 +116,7 @@ Project tech stack: NextJs + TS + ChakraUI + MongoDB + PostgreSQL (PG Vector plu
 
 Scan to join the Feishu topic group:
 
-![](https://oss.laf.run/otnvvf-imgs/Forebyte-feishu1.png)
+![](https://oss.laf.run/otnvvf-imgs/Hashtag-feishu1.png)
 
 <a href="#readme">
     <img src="https://img.shields.io/badge/-Back%20to%20Top-7d09f1.svg" alt="#" align="right">
@@ -124,7 +124,7 @@ Scan to join the Feishu topic group:
 
 ## 🏘️ Join Us
 
-We are looking for like-minded individuals to accelerate Forebyte's development. Learn more about [Forebyte 2025 Recruitment](https://fael3z0zfze.feishu.cn/wiki/P7FOwEmPziVcaYkvVaacnVX1nvg).
+We are looking for like-minded individuals to accelerate Hashtag's development. Learn more about [Hashtag 2025 Recruitment](https://fael3z0zfze.feishu.cn/wiki/P7FOwEmPziVcaYkvVaacnVX1nvg).
 
 ## 💪 Related Projects
 
@@ -138,7 +138,7 @@ We are looking for like-minded individuals to accelerate Forebyte's development.
 
 ## 🌿 Third-Party Ecosystem
 
-- [COW Personal/Enterprise WeChat Bot](https://doc.tryForebyte.ai/docs/use-cases/external-integration/onwechat/)
+- [COW Personal/Enterprise WeChat Bot](https://doc.tryHashtag.ai/docs/use-cases/external-integration/onwechat/)
 - [SiliconCloud – Open-source Model Experience Platform](https://cloud.siliconflow.cn/i/TR9Ym0c4)
 
 <a href="#readme">
@@ -147,7 +147,7 @@ We are looking for like-minded individuals to accelerate Forebyte's development.
 
 ## 👀 Additional Resources
 
-- [Comprehensive Forebyte Tutorial](https://www.bilibili.com/video/BV1n34y1A7Bo/?spm_id_from=333.999.0.0)
+- [Comprehensive Hashtag Tutorial](https://www.bilibili.com/video/BV1n34y1A7Bo/?spm_id_from=333.999.0.0)
 - [Feishu Integration](https://www.bilibili.com/video/BV1Su4y1r7R3/?spm_id_from=333.999.0.0)
 - [Enterprise WeChat Integration](https://www.bilibili.com/video/BV1Tp4y1n72T/?spm_id_from=333.999.0.0)
 
@@ -157,13 +157,13 @@ We are looking for like-minded individuals to accelerate Forebyte's development.
 
 ## 🤝 Contributing
 
-We welcome all forms of contribution. If you’re interested in contributing code, check out our GitHub [Issues](https://github.com/labring/Forebyte/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) to showcase your creativity and ideas.
+We welcome all forms of contribution. If you’re interested in contributing code, check out our GitHub [Issues](https://github.com/labring/Hashtag/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) to showcase your creativity and ideas.
 
-<a href="https://github.com/labring/Forebyte/graphs/contributors" target="_blank">
+<a href="https://github.com/labring/Hashtag/graphs/contributors" target="_blank">
   <table>
     <tr>
       <th colspan="2">
-        <br><img src="https://contrib.rocks/image?repo=labring/Forebyte"><br><br>
+        <br><img src="https://contrib.rocks/image?repo=labring/Hashtag"><br><br>
       </th>
     </tr>
     <tr>
@@ -197,5 +197,5 @@ We welcome all forms of contribution. If you’re interested in contributing cod
 
 ## License
 
-This repository follows the [Forebyte Open Source License](./LICENSE).
+This repository follows the [Hashtag Open Source License](./LICENSE).
 
