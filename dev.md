@@ -99,7 +99,7 @@ export default staticContent;
 - Use the t(namespace:key) format to ensure consistent naming.
 - Translation keys should use lowercase letters and underscores, e.g., common.close.
 
-## Build
+## Build!
 
 ```sh
 # Docker cmd: Build image, not proxy
